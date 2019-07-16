@@ -7,5 +7,6 @@ public class gittest {
 		System.out.println("第二次修改");
 		System.out.println("第三次修改");
 		System.out.println("wangpan111进行了修改");
+		System.out.println("创建了一个分支");
 	}
 }
